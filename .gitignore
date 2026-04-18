@@ -1,0 +1,47 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# Data files (large / sensitive)
+*.xlsx
+*.csv
+*.tif
+*.tiff
+*.geotiff
+
+# Model outputs
+*.rds
+*.rda
+results/
+
+# Exported plots
+*.jpeg
+*.jpg
+*.png
+*.pdf
+
+# GEE credentials
+.config/earthengine/
+credentials
+
+
+.claude
