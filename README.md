@@ -1,3 +1,7 @@
+
+
+
+
 # Eastern White Pine Health Assessment
 
 A remote sensing pipeline for classifying the health of Eastern White Pine (*Pinus strobus*) forests across Maine, New Hampshire, and Vermont using multi-source satellite imagery and machine learning.
@@ -9,6 +13,9 @@ The project covers 154 field plots and classifies forest health into three class
 - **Sentinel-2** (10/20 m): 25 spectral indices (NDVI, EVI, GNDVI, S2REP, etc.) + raw bands, monthly composites Apr–Nov
 - **Sentinel-1 GRD** (10 m): VV/VH backscatter + GLCM texture features, monthly composites
 - **USGS 3DEP** (10 m): elevation, slope, aspect
+
+## Demo
+https://github.com/user-attachments/assets/814861df-46e4-42b0-8e98-2c37517a49c0
 
 ## Repository Structure
 
